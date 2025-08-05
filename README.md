@@ -42,7 +42,7 @@ The goal of this dashboard is to:
 
 ## 📷 Dashboard Preview
 
-![HR Attrition Dashboard](Projet Power BI.png)
+![Tableau de bord RH](dashboard-preview.png)
 
 ---
 
